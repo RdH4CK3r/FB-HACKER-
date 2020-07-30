@@ -9,3 +9,6 @@ $ pip2 install requests
 $ git clone https://github.com/RdH4CK3r/FB-HACKER 
 $ cd FB-HACKER 
 $ python2 fb-hack.py 
+
+
+Username and password => rdwn 
